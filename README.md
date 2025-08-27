@@ -1,7 +1,7 @@
 # Financial Transaction Processor
 
 ### 1. Specification
-The project's goal is to process financial transactions from a CSV file and generate a formatted report. The core functions are defined: reading, processing (validating and calculating balances), and reporting. The specification is clear and provides a solid foundation for the implementation.
+The project's goal is to process financial transactions from a CSV file and generate a formatted report. The core functions are defined: reading, processing (calculating balances), and reporting.
 
 ### 2. Architecture
 The architecture directly reflects the **Single Responsibility Principle** (SRP). Each component has a specific, well-defined purpose:
