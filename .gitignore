@@ -1,0 +1,23 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# Maven build directory
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.class
+*.swp
+*.swo
