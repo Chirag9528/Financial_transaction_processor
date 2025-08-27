@@ -1,0 +1,6 @@
+date,type,amount
+2025-01-01,deposit,1000.00
+2025-01-02,withdrawal,250.50
+2025-01-03,deposit,500.00
+2025-01-04,withdrawal,-100.00
+2025-01-05,withdrawal,150.25
